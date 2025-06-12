@@ -2,7 +2,7 @@
 
 Hello, bienvenue dans la documentation officielle lié à la chaine youtube https://www.youtube.com/@Chatgara-Tech
 
-Je t'invite à parcourir les fichiers présent dans le sous répertoire [documentation](https://github.com/ChatgaraTech/Documentation/blob/main/documentation)
+Je t'invite à parcourir les fichiers présent dans le sous répertoire [documentations](https://github.com/ChatgaraTech/Documentation/blob/main/documentations)
 
 # Autres Projets
 
