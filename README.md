@@ -7,3 +7,4 @@ Je t'invite à parcourir les fichiers présent dans le sous répertoire [documen
 # Autres Projets
 
 * Authentification via OIDC en utilisant Google : https://github.com/ChatgaraTech/OAuth_OIDC_Example
+* Vérification d'un Header X-Requester et passage aux appels suivants : https://github.com/ChatgaraTech/X-Requester_Checker_Example
