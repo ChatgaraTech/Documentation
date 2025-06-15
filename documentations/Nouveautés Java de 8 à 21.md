@@ -293,10 +293,10 @@ public class EventProcessor {
     public static void processEvent(Event event) {
         switch (event) {
             case Payment(String userId, double amount) ->
-                System.out.println("Paiement reçu");
+                System.out.println("Paiement reçu : " + userID + " montant : " + amount);
 
             case Refund(String userId, double amount, String reason) ->
-                System.out.println("Remboursement reçu");
+                System.out.println("Remboursement reçu : " + userID + " montant : " + amount + "(raison : " + reason + ")");
 
             default ->
                 System.out.println("Type d'événement inconnu.");
