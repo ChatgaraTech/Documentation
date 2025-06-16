@@ -38,21 +38,7 @@ L’objectif est généralement de :
 
 ## Broken Access Control
 
-### IDOR (Insecure Direct Object Reference)
-
-#### Description
-
-IDOR est une faille de sécurité liée au Broken Access Control qui survient lorsqu’une application permet à un utilisateur d’accéder directement à des objets (fichiers, données, ressources) via un identifiant prévisible (ex : un paramètre id dans l’URL ou la requête), sans vérifier que cet utilisateur a bien les droits pour accéder à cet objet.
-
-#### Objectifs
-
-L’objectif d’un attaquant exploitant une faille IDOR est de :
-* Accéder à des données sensibles d’autres utilisateurs (ex : profils, factures, messages)
-* Modifier ou supprimer des ressources qui ne lui appartiennent pas
-
-#### Exemple
-
-* https://github.com/ChatgaraTech/Broken_Access_Control_IDOR
+Voir [Broken Access Control](https://github.com/ChatgaraTech/Documentation/blob/main/documentations/Broken%20Access%20Control.md)
 
 ## 📚 Sources
 
