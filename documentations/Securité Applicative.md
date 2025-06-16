@@ -20,6 +20,21 @@ L’objectif est généralement de :
 
 J'ai créé un projet avec des exemples : https://github.com/ChatgaraTech/XSS-Example
 
+## CRSF
+
+### Description
+CSRF (Cross-Site Request Forgery) est une faille de sécurité web qui permet à un attaquant d’exploiter l’authentification d’un utilisateur connecté pour effectuer des actions à son insu sur un site web de confiance.
+
+### Objectifs
+L’objectif est généralement de :
+* Réaliser des actions non autorisées au nom de l'utilisateur (ex : transfert d’argent, changement d’email),
+* Exploiter la session active de l’utilisateur à son insu,
+* Forcer l’utilisateur à interagir avec des fonctionnalités sensibles sans son consentement,
+* Contourner les mécanismes d’autorisation côté client.
+
+### Exemples
+
+J'ai créé un projet avec des exemples : https://github.com/ChatgaraTech/CRSF_Example
 ## 📚 Sources
 
 * Owasp TOP 10 : https://owasp.org/www-project-top-ten/
